@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2503" group="VARIEDADES" aspect-ratio="16:9", A&E
+http://45.58.126.146:14293/
+#EXTINF:0 type="stream" channelId="2501" group="VARIEDADES", AMC
+http://45.58.126.146:14296/
+#EXTINF:0 type="stream" channelId="1573" group="FILMES", AXN
+http://45.58.126.146:14299/
+#EXTINF:0 type="stream" channelId="207" group="VARIEDADES", NATIONAL GEOGRAPH HD
+http://45.58.126.146:14287/
+#EXTINF:0 type="stream" channelId="1455" group="VARIEDADES" logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" background="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY CHANNEL 2 HD
+http://45.58.126.146:14284/
+#EXTINF:0 type="stream" channelId="1456" group="VARIEDADES", HISTORY HD
+http://45.58.126.146:14281/
+#EXTINF:0 type="stream" channelId="-1" group="VARIEDADES" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVTGjwxNpks1ylYN7q7_A0zfYwldlfiAv8UYjxzwjQitNLY9ape8O8Vo6WUvyu5MiEFw&usqp=CAU" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVTGjwxNpks1ylYN7q7_A0zfYwldlfiAv8UYjxzwjQitNLY9ape8O8Vo6WUvyu5MiEFw&usqp=CAU", H&H
+http://45.58.126.146:14255/
+#EXTINF:0 type="stream" channelId="341" group="VARIEDADES", DISCOVERY
+http://45.58.126.146:14252/
+#EXTINF:0 type="stream" channelId="50" group="VARIEDADES", ANIMAL PLANET
+http://45.58.126.146:14249/
+#EXTINF:0 type="stream" channelId="2892" group="CANAIS", GLOBO
+http://45.58.126.146:14049
+#EXTINF:0 type="stream" channelId="4647" group="JORNALISMO", CNN BRASIL
+http://45.58.126.146:14234/
+#EXTINF:0 type="stream" channelId="2573" group="JORNALISMO", BAND NEWS
+http://45.58.126.146:14231/
+#EXTINF:0 type="stream" channelId="177" group="FILMES", FOX
+http://45.58.126.146:14311/
+#EXTINF:0 type="stream" channelId="1191" group="FILMES", COMEDY CENTRAL
+http://45.58.126.146:14308/
+#EXTINF:0 type="stream" channelId="1200" group="FILMES", LIFETIME
+http://45.58.126.146:14314/
+#EXTINF:0 type="stream" channelId="2588" group="FILMES", MEGAPIX
+http://45.58.126.146:14317/
+#EXTINF:0 type="stream" channelId="4036" group="FILMES", PARAMOUNT NETWORK
+http://45.58.126.146:14320/
+#EXTINF:0 type="stream" channelId="383" group="FILMES", SPACE
+http://45.58.126.146:14323/
+#EXTINF:0 type="stream" channelId="284" group="FILMES", CINECANAL
+http://45.58.126.146:14326/
+#EXTINF:0 type="stream" channelId="1287" group="FILMES", STAR CHANNEL
+http://45.58.126.146:14329/
+#EXTINF:0 type="stream" channelId="2147" group="FILMES", STUDIO UNIVERSAL HD
+http://45.58.126.146:14332/
+#EXTINF:0 type="stream" channelId="2557" group="FILMES", WARNER TV
+http://45.58.126.146:14351/
+#EXTINF:0 type="stream" channelId="73" group="FILMES", SYFY
+http://45.58.126.146:14335/
+#EXTINF:0 type="stream" channelId="3255" group="VARIEDADES", DOG TV
+http://dmnet.distv.net/dianna/123456/168
+#EXTINF:0 type="stream" channelId="2617" group="ESPORTE", WOOHOO
+http://dmnet.distv.net/dianna/123456/170
+#EXTINF:0 type="stream" channelId="2602" group="FILMES", TBS BRASIL
+http://45.58.126.146:14338/
+#EXTINF:0 type="stream" channelId="2900" group="FILMES", TNT
+http://45.58.126.146:14341/
+#EXTINF:0 type="stream" channelId="1052" group="FILMES", TNT
+http://45.58.126.146:14342/
+#EXTINF:0 type="stream" channelId="2686" group="SERIES", TNT SERIES
+http://45.58.126.146:14345/
+#EXTINF:0 type="stream" channelId="187" group="FILMES", UNIVERSAL TV
+http://45.58.126.146:14348/
+#EXTINF:0 type="stream" channelId="2603" group="FILMES", TELECINI ACTION
+http://45.58.126.146:14354/
+#EXTINF:0 type="stream" channelId="2608" group="FILMES", TELECINI PIPOCA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16757
+#EXTINF:0 type="stream" channelId="2611" group="FILMES", TELECINI TOUCH
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16759
+#EXTINF:0 type="stream" channelId="2606" group="FILMES", TELECINE FUN
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16756
+#EXTINF:0 type="stream" channelId="2147" group="FILMES", STUDIO UNIVERSAL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16754
+#EXTINF:0 type="stream" channelId="2599" group="ESPORTE", SPORTV
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16753
+#EXTINF:0 type="stream" channelId="2601" group="ESPORTE", SPORTV 3
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16752
+#EXTINF:0 type="stream" channelId="2571" group="CANAIS", SBT
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16749
+#EXTINF:0 type="stream" channelId="2562" group="CANAIS", RECORD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16748
+#EXTINF:0 type="stream" channelId="2456" group="CANAIS", RECORD NEWS
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16747
+#EXTINF:0 type="stream" channelId="2710" group="DESENHOS", NICK
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16745
+#EXTINF:0 type="stream" channelId="322" group="DESENHOS", NICK JR
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16744
+#EXTINF:0 type="stream" channelId="207" group="VARIEDADES" aspect-ratio="16:9", NATIONAL GEOGRAPH
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16743
+#EXTINF:0 type="stream" channelId="2590" group="MUSICA", MULTISHOW
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16740
+#EXTINF:0 type="stream" channelId="237" group="MUSICA", MTV
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16738
+#EXTINF:0 type="stream" channelId="2621" group="FILMES", EURO CHANNEL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
+#EXTINF:0 type="stream" channelId="57" group="VARIEDADES", DISCOVERY ID
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16736
+#EXTINF:0 type="stream" channelId="1456" group="VARIEDADES", HISTORY CHANNEL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16735
+#EXTINF:0 type="stream" channelId="2581" group="DESENHOS", CINE GLOOB
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16732
+#EXTINF:0 type="stream" channelId="2892" group="CANAIS", GLOBO
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16730
+#EXTINF:0 type="stream" channelId="2892" group="CANAIS", GLOBO
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16729
+#EXTINF:0 type="stream" channelId="208" group="FILMES", FOX
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16726
+#EXTINF:0 type="stream" channelId="355" group="ESPORTE", ESPN3
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16725
+#EXTINF:0 type="stream" channelId="2761" group="FILMES", COMEDY CENTRAL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16721
+#EXTINF:0 type="stream" channelId="1720" group="VARIEDADES", FOOD NETWORK
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16719
+#EXTINF:0 type="stream" channelId="344" group="ESPORTE", ESPN 2
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16718
+#EXTINF:0 type="stream" channelId="344" group="ESPORTE", ESPN 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16716
+#EXTINF:0 type="stream" channelId="19" group="DESENHOS", DISNEY
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
+#EXTINF:0 type="stream" channelId="341" group="VARIEDADES", DISCOVERY WORLD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16712
+#EXTINF:0 type="stream" channelId="2840" group="VARIEDADES", DISCOVERY TURBO
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16711
+#EXTINF:0 type="stream" channelId="2610" group="FILMES", TELECINE PREMIUM
+http://dmnet.distv.net/dianna/123456/154
+#EXTINF:0 type="stream" channelId="361" group="FILMES", HBO POP
+http://15.235.10.31:14396
+#EXTINF:0 type="stream" channelId="2725" group="FILMES", HBO MUNDI
+http://15.235.10.31:14395
+#EXTINF:0 type="stream" channelId="2725" group="FILMES", HBO MUNDI HD
+http://15.235.10.31:14394
+#EXTINF:0 type="stream" channelId="2896" group="FILMES", SPACE
+http://15.235.10.31:14390
+#EXTINF:0 type="stream" channelId="2584" group="FILMES", HBO FAMILY
+http://15.235.10.31:14388
+#EXTINF:0 type="stream" channelId="2584" group="FILMES", HBO FAMILY HD
+http://15.235.10.31:14387
+#EXTINF:0 type="stream" channelId="935" group="FILMES", HBO 2
+http://15.235.10.31:14383
+#EXTINF:0 type="stream" channelId="935" group="FILMES", HBO 2 HD
+http://15.235.10.31:14384
+#EXTINF:0 type="stream" channelId="935" group="FILMES", HBO 2 HD
+http://15.235.10.31:14382
+#EXTINF:0 type="stream" channelId="935" group="FILMES", HBO 2 FULL HD
+http://15.235.10.31:14381
+#EXTINF:0 type="stream" channelId="1330" group="FILMES", HBO
+http://15.235.10.31:14380
+#EXTINF:0 type="stream" channelId="1330" group="FILMES", HBO HD
+http://15.235.10.31:14379
+#EXTINF:0 type="stream" channelId="1330" group="FILMES", HBO FULL HD
+http://15.235.10.31:14378
+#EXTINF:0 type="stream" channelId="1456" group="VARIEDADES", HISTORY HD
+http://15.235.10.31:14376
+#EXTINF:0 type="stream" channelId="2582" group="VARIEDADES", GNT
+http://15.235.10.31:14363
+#EXTINF:0 type="stream" channelId="2582" group="VARIEDADES", GNT HD
+http://15.235.10.31:14366
+#EXTINF:0 type="stream" channelId="2722" group="VARIEDADES", GNT FULL HD
+http://15.235.10.31:14365
+#EXTINF:0 type="stream" channelId="5071" group="DESENHOS", GLOOBINHO HD
+http://15.235.10.31:14360
+#EXTINF:0 type="stream" channelId="5071" group="DESENHOS", GLOOBINHO
+http://15.235.10.31:14359
+#EXTINF:0 type="stream" channelId="2581" group="DESENHOS", GLOOB
+http://15.235.10.31:14358
+#EXTINF:0 type="stream" channelId="2893" group="JORNALISMO", GLOBO NEWS
+http://15.235.10.31:14354
+#EXTINF:0 type="stream" channelId="208" group="FILMES", FOX HD
+http://15.235.10.31:14340
+#EXTINF:0 type="stream" channelId="177" group="FILMES", FOX SD
+http://15.235.10.31:14341
+#EXTINF:0 type="stream" channelId="2454" group="JORNALISMO", FUTURA
+http://15.235.10.31:14338
+#EXTINF:0 type="stream" channelId="2454" group="JORNALISMO", FUTURA HD
+http://15.235.10.31:14337
+#EXTINF:0 type="stream" channelId="-1" group="JORNALISMO" background="data:image/png;base64,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", FURAÇÃO LIVE
+http://15.235.10.31:14335
